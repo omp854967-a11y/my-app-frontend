@@ -1,0 +1,25 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blookit Logo -->
+  <rect x="0" y="0" width="120" height="40" fill="transparent"/>
+  
+  <!-- Letter B -->
+  <path d="M8 8 L8 32 L18 32 Q22 32 24 30 Q26 28 26 25 Q26 22 24 20 Q26 18 26 15 Q26 12 24 10 Q22 8 18 8 Z M12 12 L18 12 Q20 12 21 13 Q22 14 22 15 Q22 16 21 17 Q20 18 18 18 L12 18 Z M12 22 L18 22 Q20 22 21 23 Q22 24 22 25 Q22 26 21 27 Q20 28 18 28 L12 28 Z" fill="white"/>
+  
+  <!-- Letter L -->
+  <path d="M30 8 L30 32 L44 32 L44 28 L34 28 L34 8 Z" fill="white"/>
+  
+  <!-- Letter O -->
+  <circle cx="54" cy="20" r="12" fill="none" stroke="white" stroke-width="4"/>
+  
+  <!-- Letter O -->
+  <circle cx="74" cy="20" r="12" fill="none" stroke="white" stroke-width="4"/>
+  
+  <!-- Letter K -->
+  <path d="M86 8 L86 32 L90 32 L90 21 L96 32 L101 32 L94 20 L100 8 L95 8 L90 17 L90 8 Z" fill="white"/>
+  
+  <!-- Letter I -->
+  <path d="M104 8 L104 32 L108 32 L108 8 Z" fill="white"/>
+  
+  <!-- Letter T -->
+  <path d="M112 8 L112 12 L116 12 L116 32 L120 32 L120 12 L124 12 L124 8 Z" fill="white"/>
+</svg>
